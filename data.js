@@ -1,0 +1,15 @@
+const axios = require('axios')
+
+module.exports = {
+    abba (length) {
+        // let data = ''
+
+        // for (let i = 0; i < length; i++)
+        //     data += Math.random() > 0.5 ? 'A' : 'B'
+
+        // return data
+
+        return 'ABBAABBBABBBA'
+        return 'ABBAABBBABBBABABABAABABABBABBBBABAABBBABAAAAAAAABBBAABAABAABBABBBBBBBBABBBAAAABAABABABBAABAAAAABABBBAABABBBBBBABABBBABBABBBAAABBABAAABABAABAAAAAABABAABABABBBBBABAAABAABBAAAAABBBBAABBABABABBBBBBBBBAABBAABBBABABABABAABBBABBAAAAABABBAAABAABBBBBBAABABBABAAAABB'
+    }
+}
